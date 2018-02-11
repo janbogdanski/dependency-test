@@ -1,0 +1,17 @@
+{
+    "name": "janbogdanski/dependency-test",
+    "type": "library",
+    "description": "Dependency test",
+    "homepage": "https://github.com/janbogdanski/dependency-test",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jan Bogdanski",
+            "homepage": "https://bogdan.ski",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
